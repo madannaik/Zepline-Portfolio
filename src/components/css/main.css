@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap');
+
+.main-body{
+    width: 100vw;
+    height: auto;
+    background:linear-gradient(to bottom, #f1fefe, rgba(241, 254, 254, 0));  
+}
+
+.header{
+
+}
+
+.header-appbar{
+    display: grid;
+    grid-template-columns: 220px  auto 8% 8% 8% 8% 8% 2%;
+    grid-template-rows: auto;
+    padding-top: 10px;
+    color: #374b5c;  
+}
+
+.header-appbar span:nth-child(1) p{
+    font-weight: bold;
+    color: #374b5c;
+    size: 42px;
+    font-family: 'Libre Baskerville', serif;
+    margin-top: 0.6vw;  
+}
+
+
+.header-appbar span:nth-child(1) img{
+    width: 40px;
+    margin-left: 6rem;
+    float: left;
+}
+.header-appbar span:nth-child(3) {
+    padding-top: 10px;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 14px;
+}
+.header-appbar span:nth-child(4) {
+    padding-top: 10px;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 14px;
+}
+.header-appbar span:nth-child(5) {
+    padding-top: 10px;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 14px;
+}
+.header-appbar span:nth-child(6) {
+    padding:10px 0 0 0;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 14px;
+}
+.header-appbar span:nth-child(7) {
+    padding:10px 0 0 0;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 14px;
+}
+.header-appbar span:nth-child(n+3):hover{
+    border: 2px solid #00dbd0;
+    border-radius: 10px;
+}
+.header-appbar span:nth-child(n+3):active{
+    text-decoration: underline #00dbd0;
+}
+
+
+/* @media screen and (min-width:1000px){
+    .header-appbar{
+        grid-template-columns: 10% 11% auto 8% 8% 8% 8% ;
+    }
+}
+@media screen and (min-width:1200px){
+    
+}
+@media screen and (min-width:1300px){
+    
+}
+
+@media screen and (min-width:1450px){
+    
+}
+@media screen and (min-width:1650px){
+    
+} */
