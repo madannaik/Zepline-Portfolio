@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Zepline-portfolio/static/css/main.4aa80bfa.chunk.css",
-    "main.js": "/Zepline-portfolio/static/js/main.6b8ec7a9.chunk.js",
-    "main.js.map": "/Zepline-portfolio/static/js/main.6b8ec7a9.chunk.js.map",
-    "runtime-main.js": "/Zepline-portfolio/static/js/runtime-main.194f03f9.js",
-    "runtime-main.js.map": "/Zepline-portfolio/static/js/runtime-main.194f03f9.js.map",
-    "static/js/2.3cdbf0fe.chunk.js": "/Zepline-portfolio/static/js/2.3cdbf0fe.chunk.js",
-    "static/js/2.3cdbf0fe.chunk.js.map": "/Zepline-portfolio/static/js/2.3cdbf0fe.chunk.js.map",
-    "index.html": "/Zepline-portfolio/index.html",
-    "static/css/main.4aa80bfa.chunk.css.map": "/Zepline-portfolio/static/css/main.4aa80bfa.chunk.css.map",
-    "static/js/2.3cdbf0fe.chunk.js.LICENSE.txt": "/Zepline-portfolio/static/js/2.3cdbf0fe.chunk.js.LICENSE.txt",
-    "static/media/main.css": "/Zepline-portfolio/static/media/xlarge-leaves.efbd04e6.png",
-    "static/media/blog1.e8bc3dc5.png": "/Zepline-portfolio/static/media/blog1.e8bc3dc5.png",
-    "static/media/blog2.426912a6.png": "/Zepline-portfolio/static/media/blog2.426912a6.png",
-    "static/media/blog3.df0fec61.png": "/Zepline-portfolio/static/media/blog3.df0fec61.png",
-    "static/media/flower.71ea1be1.png": "/Zepline-portfolio/static/media/flower.71ea1be1.png",
-    "static/media/large-logo.317690fe.png": "/Zepline-portfolio/static/media/large-logo.317690fe.png",
-    "static/media/woman.b90238e1.png": "/Zepline-portfolio/static/media/woman.b90238e1.png"
+    "main.css": "/Zepline-Portfolio/static/css/main.48485600.chunk.css",
+    "main.js": "/Zepline-Portfolio/static/js/main.6b8ec7a9.chunk.js",
+    "main.js.map": "/Zepline-Portfolio/static/js/main.6b8ec7a9.chunk.js.map",
+    "runtime-main.js": "/Zepline-Portfolio/static/js/runtime-main.9416da85.js",
+    "runtime-main.js.map": "/Zepline-Portfolio/static/js/runtime-main.9416da85.js.map",
+    "static/js/2.3cdbf0fe.chunk.js": "/Zepline-Portfolio/static/js/2.3cdbf0fe.chunk.js",
+    "static/js/2.3cdbf0fe.chunk.js.map": "/Zepline-Portfolio/static/js/2.3cdbf0fe.chunk.js.map",
+    "index.html": "/Zepline-Portfolio/index.html",
+    "static/css/main.48485600.chunk.css.map": "/Zepline-Portfolio/static/css/main.48485600.chunk.css.map",
+    "static/js/2.3cdbf0fe.chunk.js.LICENSE.txt": "/Zepline-Portfolio/static/js/2.3cdbf0fe.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/Zepline-Portfolio/static/media/xlarge-leaves.efbd04e6.png",
+    "static/media/blog1.e8bc3dc5.png": "/Zepline-Portfolio/static/media/blog1.e8bc3dc5.png",
+    "static/media/blog2.426912a6.png": "/Zepline-Portfolio/static/media/blog2.426912a6.png",
+    "static/media/blog3.df0fec61.png": "/Zepline-Portfolio/static/media/blog3.df0fec61.png",
+    "static/media/flower.71ea1be1.png": "/Zepline-Portfolio/static/media/flower.71ea1be1.png",
+    "static/media/large-logo.317690fe.png": "/Zepline-Portfolio/static/media/large-logo.317690fe.png",
+    "static/media/woman.b90238e1.png": "/Zepline-Portfolio/static/media/woman.b90238e1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.194f03f9.js",
+    "static/js/runtime-main.9416da85.js",
     "static/js/2.3cdbf0fe.chunk.js",
-    "static/css/main.4aa80bfa.chunk.css",
+    "static/css/main.48485600.chunk.css",
     "static/js/main.6b8ec7a9.chunk.js"
   ]
 }
