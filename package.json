@@ -1,6 +1,7 @@
 {
   "name": "organic",
   "version": "0.1.0",
+  "homepage": "https://madannaik.github.io/Zepline-Portfolio",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.4",
